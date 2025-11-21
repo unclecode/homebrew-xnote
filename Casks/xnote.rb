@@ -1,6 +1,6 @@
 cask "xnote" do
-  version "1.0.0"
-  sha256 "68067f01dee58152e3abf70c34f1aeeb7fa38ac8f64fea4cb313a9ee05aa0206"
+  version "1.0.1"
+  sha256 "16e3c0624bf3df2201129a4fe7553ddedb5312bc857994cb575e5721bad7b68c"
 
   url "https://github.com/unclecode/xnote/releases/download/v#{version}/xnote-#{version}-mac-universal.zip"
   name "xnote"
